@@ -14,6 +14,7 @@ var NAT_AMIS = map[string]string{
 	"us-east-1":      "ami-ad227cc4",
 	"us-west-1":      "ami-d69aad93",
 	"us-west-2":      "ami-f032acc0",
+	"eu-central-1":   "ami-3604392b", // amzn-ami-vpc-nat-pv-2015.03.0.x86_64-ebs
 	"eu-west-1":      "ami-f3e30084",
 	"ap-southeast-1": "ami-f22772a0",
 	"ap-southeast-2": "ami-3bae3201",
