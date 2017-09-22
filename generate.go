@@ -8,7 +8,7 @@ import (
 	"github.com/cloudfoundry-incubator/candiedyaml"
 	"github.com/vito/cloudformer/aws"
 
-	"github.com/vito/boosh/builder"
+	"github.com/FaKeller/boosh/builder"
 )
 
 func generate(source io.Reader) {
